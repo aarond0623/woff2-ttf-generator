@@ -4,6 +4,9 @@
 *.ttf
 *.otf
 
+# Woff2 Brotli
+woff2/brotli/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
