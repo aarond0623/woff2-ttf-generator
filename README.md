@@ -1,14 +1,13 @@
 Woff2 Font Generator
 ====================
 
-This project is for converting woff2 files downloaded from a website into ttf
-files for desktop use.
+This project is for converting variable woff2 files downloaded from a website into static ttf files for desktop use.
 
 Requirements
 ------------
 
 This project requires Google's Woff2 tools to decompress the woff files as well
-as fonttools, as listed in requirements.txt.
+as fonttools to convert to static fonts, as listed in requirements.txt.
 
 Installation
 ------------
