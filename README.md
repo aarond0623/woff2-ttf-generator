@@ -1,5 +1,5 @@
-Woff2 Font Generator
-====================
+Variable Woff2 to Static TTF Generator
+======================================
 
 This project is for converting variable woff2 files downloaded from a website into static ttf files for desktop use.
 
